@@ -1,0 +1,25 @@
+2022-08-08 19:41:14,201 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-08 19:41:14,403 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-08-08 19:41:53,848 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-08 19:41:54,023 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-08-09 08:17:22,322 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-09 08:17:22,479 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-08-09 08:18:07,310 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-08-09 08:18:07,319 (WARNING) - django.request - Forbidden: /store/collections/
+2022-08-09 08:18:07,328 (WARNING) - django.request - Bad Request: /store/collections/
+2022-08-09 08:18:07,359 (WARNING) - django.request - Not Found: /store/collections/0/
+2022-08-09 08:18:07,370 (WARNING) - django.request - Unauthorized: /store/products/
+2022-08-09 08:18:07,381 (WARNING) - django.request - Forbidden: /store/products/
+2022-08-09 08:19:06,454 (INFO) - django.utils.autoreload - /home/delsahim/Documents/storefront3/storefront/settings/common.py changed, reloading.
+2022-08-09 08:19:07,515 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-09 08:19:07,698 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-08-09 08:19:17,267 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-08-09 08:19:17,314 (WARNING) - django.request - Forbidden: /store/collections/
+2022-08-09 08:19:17,434 (WARNING) - django.request - Bad Request: /store/collections/
+2022-08-09 08:19:17,595 (WARNING) - django.request - Not Found: /store/collections/0/
+2022-08-09 08:19:17,649 (WARNING) - django.request - Unauthorized: /store/products/
+2022-08-09 08:19:17,702 (WARNING) - django.request - Forbidden: /store/products/
+2022-08-09 08:24:26,419 (INFO) - django.utils.autoreload - /home/delsahim/.local/share/virtualenvs/storefront3-HUfhpDQ_/lib/python3.10/site-packages/pkg_resources/_vendor/packaging/__about__.py changed, reloading.
+2022-08-09 08:24:27,560 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-08-09 08:24:27,702 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-08-09 08:26:04,526 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
